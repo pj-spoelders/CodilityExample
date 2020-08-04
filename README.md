@@ -1,6 +1,5 @@
 # CodilityExample
-C++ Solution for example question : https://app.codility.com/c/run/demo6HURJJ-NWM/
-
+C++ Solution for example test : https://app.codility.com/demo/take-sample-test/
 "This is a demo task.
 
 Write a function:
