@@ -1,2 +1,2 @@
 # CodilityExample
-Solution for example question : https://app.codility.com/c/run/demo6HURJJ-NWM/
+C++ Solution for example question : https://app.codility.com/c/run/demo6HURJJ-NWM/
